@@ -1,0 +1,22 @@
+Webpack (import/exports)
+    Babel
+    Scss
+    Eslint
+    2 Modes 
+     -Dev:
+        Dev-Server, SourceMaps, Eslint, Not Minifited JS & CSS
+     -Prod
+        Minifited Code
+Git 
+
+    //Продакшен версия
+  Production
+    1.0.0 // 1 - основное обновление 0 - среднее обновление 0 - минимальное обновление 
+
+    //версия разработки 
+  Development
+    1.0.2
+
+    // ветки
+    1 ---------- базовая версия программы Pull request(запрос на совмещение)
+    2 ------------- копия ветки brunch(1) 
