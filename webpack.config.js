@@ -17,10 +17,6 @@ const jsLoaders = () => {
          },
       },
    ];
-   if (isDev) {
-      loaders.push("eslint-loader");
-   }
-   return loaders;
 };
 module.exports = {
    context: path.resolve(__dirname, "src"),
